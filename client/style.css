@@ -173,3 +173,7 @@ form i{
   font-size: 20px;
   text-align: center;
 }
+.banner__text a{
+  color: white;
+  font-family: sans-serif;
+}
